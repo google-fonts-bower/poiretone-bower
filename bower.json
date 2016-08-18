@@ -1,0 +1,17 @@
+{
+    "name": "poiretone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Denis Masharov"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/poiretone-bower.git"
+    },
+    "description": "Poiret One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
